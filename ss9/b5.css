@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+    background-color: gainsboro;
+    width: 250px;
+    height: 200px;
+    margin-left: 150px;
+}
+div:hover{
+    background-color:blue;
+}
+h1{
+    color: white;
+    margin-bottom: 60px;
+    font-weight: normal;
+    padding: 50px;
+}
